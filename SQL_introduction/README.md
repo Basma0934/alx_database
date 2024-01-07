@@ -1,0 +1,1 @@
+Starting a new journey with SQL where we'll be checking its introduction and its basics.
